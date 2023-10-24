@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Quote Generator App
 Reference: Random Quote Generator - React Fetch API Data | Build and Deploy a Real Advice App Project by JavaScript Mastery https://youtu.be/o5CdCETh8cQ?si=IY-dEBVjlMyYH0Lk
+Demo: https://stirring-pudding-2d0d32.netlify.app/ 
