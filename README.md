@@ -1,74 +1,28 @@
-<!-- # Getting Started with Create React App
+# Quote Generator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This project is a random quote generator spoken from a friendly elephant seal. With a click of a button, the elephant seal will give you a wholesome, funny, or motivational quote.
 
-In the project directory, you can run:
+## Demo
+The website is hosted using Netlify. You can try it out yourself by going to [Quote Generator App](https://stirring-pudding-2d0d32.netlify.app/)
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Languages/Framework
+* React
+* Node.js
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### API
+* [Advice Slip JSON API](https://api.adviceslip.com/)
 
-### `npm test`
+### Hosting
+* [Netlify](https://www.netlify.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Authors
+* JLionPerez
 
-### `npm run build`
+## Acknowledgments
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
-
-Quote Generator App
-Reference: Random Quote Generator - React Fetch API Data | Build and Deploy a Real Advice App Project by JavaScript Mastery https://youtu.be/o5CdCETh8cQ?si=IY-dEBVjlMyYH0Lk
-Demo: https://stirring-pudding-2d0d32.netlify.app/ 
+I used the following tutorial as a jumpboard for this project:
+* [JavaScript Mastery's React Tutorial](https://youtu.be/o5CdCETh8cQ?si=IY-dEBVjlMyYH0Lk)
